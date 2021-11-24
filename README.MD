@@ -5,9 +5,8 @@ Your job is to code an app with posts of users with ability to manage posts and 
 
 ## Tech stack:
 * API: [API DOCS](https://jsonplaceholder.typicode.com/) 
-* Starter: [Create react app starter](https://github.com/facebook/create-react-app) - TS template
+* Starter: [Create react app starter](https://github.com/facebook/create-react-app)
 * Routing: [React-router](https://github.com/ReactTraining/react-router)
-* Typescript: [DOCS](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ## Screens:
 * `Homepage` 
